@@ -19,5 +19,3 @@ This project is mainly for learning and practice purposes.
 - **JavaScript**
 
 ---
-
-## 📂 Project Structure
